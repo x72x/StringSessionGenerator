@@ -1,0 +1,1 @@
+screen python3 bot.py
