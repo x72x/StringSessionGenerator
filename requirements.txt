@@ -1,4 +1,4 @@
-pyromod
+pyromod==1.5
 asyncio
-telethon
-pyrogram
+telethon==1.26.1
+pyrogram==2.0.53
